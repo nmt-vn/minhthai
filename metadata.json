@@ -1,0 +1,6 @@
+{
+  "name": "MedBook - Đặt Lịch Khám Bệnh",
+  "description": "Ứng dụng đặt lịch khám bệnh trực tuyến thông minh, tìm kiếm bác sĩ, tư vấn chuyên khoa với trợ lý AI và quản lý phiếu khám.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
